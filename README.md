@@ -182,17 +182,8 @@ cat /home/ubuntu/sysinfo.log
 [6] Wikimedia Foundation, "Wikipedia Free Encyclopedia," Wikipedia, 2026.  
 [Online]. Available: https://wikipedia.org
 
-[7] Anthropic, "Claude AI Assistant," Anthropic, 2026.  
-[Online]. Available: https://claude.ai
-
-[8] W3Schools, "HTML Tutorial," W3Schools, 2026.  
+[7] W3Schools, "HTML Tutorial," W3Schools, 2026.  
 [Online]. Available: https://www.w3schools.com/html
 
-[9] W3Schools, "CSS Tutorial," W3Schools, 2026.  
+[8] W3Schools, "CSS Tutorial," W3Schools, 2026.  
 [Online]. Available: https://www.w3schools.com/css
-
-[10] W3Schools, "CSS Flexbox," W3Schools, 2026.  
-[Online]. Available: https://www.w3schools.com/css/css3_flexbox.asp
-
-[11] W3Schools, "CSS Grid," W3Schools, 2026.  
-[Online]. Available: https://www.w3schools.com/css/css_grid.asp
