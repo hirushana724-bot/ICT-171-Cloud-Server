@@ -2,7 +2,7 @@
 
 **Student Name:** Anjana Hirushan Perera  
 **Student Number:** 35766077  
-**GitHub Repo:** https://github.com/hirushana724 
+**GitHub Repo:** https://github.com/hirushana724-bot
 **Live Server IP:** 3.104.9.21  
 **DNS Entry:** visitsrilanka.mooo.com  
 **Video Explainer:**  
