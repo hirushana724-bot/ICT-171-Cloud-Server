@@ -1,10 +1,10 @@
 # ICT171 Cloud Server Project — Sri Lanka Tourism Website
 **Student Name:** Anjana Hirushan Perera 
 **Student Number:** 35766077
-**GitHub Repo:** (this link)  
-**Live Server IP:** (fill in after EC2 setup)  
-**DNS Entry:** (fill in after DNS setup)  
-**Video Explainer:** (fill in after recording)
+**GitHub Repo:** https://github.com/hirushana724/ICT171-SriLanka-Tourism-Server
+**Live Server IP:** 3.104.9.21
+**DNS Entry:** visitsrilanka.mooo.com
+**Video Explainer:** 
 
 ## Overview
 A Sri Lanka tourism website hosted on Ubuntu 22.04 via AWS EC2 (IaaS).  
