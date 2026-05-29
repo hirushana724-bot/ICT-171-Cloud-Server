@@ -2,7 +2,7 @@
 
 **Student Name:** Anjana Hirushan Perera  
 **Student Number:** 35766077  
-**GitHub Repo:** https://github.com/hirushana724/ICT171-Cloud-Server  
+**GitHub Repo:** https://github.com/hirushana724 
 **Live Server IP:** 3.104.9.21  
 **DNS Entry:** visitsrilanka.mooo.com  
 **Video Explainer:**  
