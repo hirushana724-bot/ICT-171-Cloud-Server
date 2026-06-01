@@ -5,7 +5,7 @@
 **GitHub Repo:** https://github.com/hirushana724-bot/ICT-171-Cloud-Server  
 **Live Server IP:** 3.104.9.21  
 **DNS Entry:** visitsrilanka.mooo.com  
-**Video Explainer:** (add YouTube link after recording)  
+**Video Explainer:** https://youtu.be/GEjhQUI8jLw  
 
 ---
 
