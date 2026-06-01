@@ -1,7 +1,7 @@
 # ICT171 Cloud Server Project — Sri Lanka Tourism Website
 
-**Student Name:** Your Full Name  
-**Student Number:** Your Student Number  
+**Student Name:** Anjana Hirushan Perea  
+**Student Number:** 35766077  
 **GitHub Repo:** https://github.com/hirushana724-bot/ICT-171-Cloud-Server  
 **Live Server IP:** 3.104.9.21  
 **DNS Entry:** visitsrilanka.mooo.com  
